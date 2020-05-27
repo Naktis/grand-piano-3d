@@ -3,4 +3,4 @@
 
  ![model](/screenshot.jpg "model")
 
- To view 3D [click here](https://skfb.ly/6SNsS)
+ [View in 3D](https://skfb.ly/6SNsS)
